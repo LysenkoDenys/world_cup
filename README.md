@@ -45,13 +45,13 @@ opponent_goals
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/worldcup-db.git
+git clone https://github.com/LysenkoDenys/world_cup
 cd worldcup-db
 
 
 Create and import the database:
 
-psql -U <your-username> -d worldcup -f worldcup.sql
+psql -U freecodecamp -d worldcup -f worldcup.sql
 
 Run the data import script (from games.csv):
 
