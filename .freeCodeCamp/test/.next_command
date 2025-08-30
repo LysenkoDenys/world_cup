@@ -336,3 +336,7 @@ git remote add origin https://github.com/LysenkoDenys/world_cup.git
 git branch -M main
 git push -u origin main
 git add .
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git add .
